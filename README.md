@@ -6,8 +6,7 @@ Face Track - Identifies and tracks a specific face (criminal or other) in a vide
 Requirements
 Ensure the following dependencies are installed:
 
-bash
-Copy code
+
 pip install streamlit opencv-python-headless numpy tensorflow scikit-learn face-recognition
 How to Run the Application
 To run the Streamlit app, follow these steps:
